@@ -1,0 +1,40 @@
+anyio @ file:///D:/bld/anyio_1641898277463/work/dist
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1625395912402/work
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///C:/ci/cffi_1625831756778/work
+chardet @ file:///C:/ci/chardet_1607706937985/work
+click @ file:///D:/bld/click_1635822757640/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+conda==4.11.0
+conda-package-handling @ file:///C:/ci/conda-package-handling_1618262410900/work
+cryptography @ file:///C:/ci/cryptography_1616769504165/work
+dlib @ file:///D:/bld/dlib_1617441752500/work
+face-recognition @ file:///home/conda/feedstock_root/build_artifacts/face_recognition_1619808233029/work
+face-recognition-models @ file:///home/conda/feedstock_root/build_artifacts/face_recognition_models_1595707436534/work
+fastapi @ file:///home/conda/feedstock_root/build_artifacts/fastapi_1641790919964/work
+gunicorn==20.1.0
+h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1609518832927/work
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+menuinst==1.4.16
+numpy @ file:///D:/bld/numpy_1641177306887/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+Pillow @ file:///D:/bld/pillow_1636558980741/work
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pydantic @ file:///D:/bld/pydantic_1641053381774/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+PySocks @ file:///C:/ci/pysocks_1605307512533/work
+python-multipart==0.0.5
+pywin32==228
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+ruamel-yaml-conda @ file:///C:/ci/ruamel_yaml_1616016898638/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sniffio @ file:///D:/bld/sniffio_1635844947979/work
+starlette @ file:///home/conda/feedstock_root/build_artifacts/starlette-recipe_1641778727195/work
+tqdm @ file:///tmp/build/80754af9/tqdm_1625563689033/work
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1638334978229/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1625084269274/work
+uvicorn @ file:///D:/bld/uvicorn_1638979259626/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
+wincertstore==0.2
